@@ -10,7 +10,7 @@
     "build": "babel src --watch -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "browserslist":"> 0.25%",
+  "browserslist": "> 0.25%",
   "devDependencies": {
     "@babel/cli": "^7.27.0",
     "@babel/core": "^7.26.10",
