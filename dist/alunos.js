@@ -1,8 +1,5 @@
 "use strict";
 
-// Importando Babel (caso necessário para um ambiente específico)
-// Babel é um transpilador usado para converter código moderno em versões compatíveis com browsers antigos
-
 var alunos = [{
   nome: "Ana",
   nota: 7
